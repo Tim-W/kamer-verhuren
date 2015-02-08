@@ -7,8 +7,8 @@ meteor-platform
 autopublish
 insecure
 urigo:angular
-mquandalle:bower
 accounts-password
 accounts-ui
 urigo:ionic
 raix:push
+angularui:angular-ui-router
